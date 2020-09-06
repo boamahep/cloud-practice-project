@@ -9,11 +9,11 @@ GCP Fundamentals: Getting Started with Cloud Marketplace (screenshot link) -
 https://github.com/boamahep/cloud-practice-project/blob/master/Getting%20Started%20with%20Cloud%20Marketplace.PNG
 
 GCP Fundamentals: Getting Started with Compute Engine (screenshot link) - 
-https://googlepluralsight.qwiklabs.com/focuses/10168816?parent=lti_session
+https://github.com/boamahep/cloud-practice-project/blob/master/Getting%20Started%20with%20Compute%20Engine.PNG
 
 Module: Storage in the Cloud
 GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL (screenshot link) - 
-https://googlepluralsight.qwiklabs.com/focuses/10168831?parent=lti_session
+https://github.com/boamahep/cloud-practice-project/blob/master/Getting%20Started%20with%20Cloud%20Storage%20and%20Cloud%20SQL.PNG
 
 Module: Containers in the Cloud
 GCP Fundamentals: Getting Started with Kubernetes Engine (screenshot link) - 
