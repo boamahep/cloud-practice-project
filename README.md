@@ -17,7 +17,7 @@ https://github.com/boamahep/cloud-practice-project/blob/master/Getting%20Started
 
 Module: Containers in the Cloud
 GCP Fundamentals: Getting Started with Kubernetes Engine (screenshot link) - 
-https://googlepluralsight.qwiklabs.com/focuses/10168861?parent=lti_session
+https://github.com/boamahep/cloud-practice-project/blob/master/Getting%20Started%20with%20Kubernetes%20Engine.PNG
 
 Module: Applications in the Cloud
 GCP Fundamentals: Getting Started with App Engine (screenshot link) - 
