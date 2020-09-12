@@ -27,3 +27,12 @@ Module: Developing, Deploying and Monitoring in the Cloud
 GCP Fundamentals: Getting Started with Deployment Manager and Stackdriver (screenshot link) - 
 https://github.com/boamahep/cloud-practice-project/blob/master/Getting%20Started%20with%20Deployment%20Manager%20and%20Cloud%20Monitoring.PNG
 
+Course: Essential Google Cloud Infrastructure: Foundation
+
+Module: Introduction to Google Cloud
+Console and Cloud Shell - https://googlepluralsight.qwiklabs.com/focuses/10168999?parent=lti_session
+
+Infrastructure Preview
+https://googlepluralsight.qwiklabs.com/focuses/10169005?parent=lti_session
+
+
